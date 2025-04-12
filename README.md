@@ -1,4 +1,6 @@
-Project Overview
+Project Overview:-
+
+
 This system focuses on organizing and handling patient medication details along with general hospital administration. It ensures accurate storage, retrieval, and management of prescriptions, allowing healthcare providers to track patient treatments seamlessly.
 Core Features
 - Patient Management- Stores patient details such as Id, Name, Date of Birth, Address, and NHS Number.
@@ -14,12 +16,14 @@ Core Features
 - Protects sensitive medical data to comply with privacy regulations.
 
 
-Technical Details
+Technical Details:-
+
 - Python handles backend operations for user interactions and database communication.
 - Tkinter provides a user-friendly graphical interface for efficient hospital management.
 - SQL Database (e.g., MySQL or SQLite) securely stores patient and prescription information.
 - CRUD Operations (Create, Read, Update, Delete) manage prescription details dynamically.
 
-Potential Enhancements
+Potential Enhancements:-
+
 - Adding prescription reminders for patients.
 - Implementing data visualization for medication tracking.
